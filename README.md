@@ -19,3 +19,16 @@ monthly aviation statistics from **January 2021 to December 2023**, including:
 The goal is to quantify how these operational factors influence passenger throughput and to visualize the relationships using Python.
 
 ---
+## ▶️ How to Run
+
+Make sure Python 3 is installed.
+
+Install dependencies:
+
+```bash
+pip install numpy pandas statsmodels matplotlib
+
+## Run the script:
+
+```bash
+python regression_code.py
