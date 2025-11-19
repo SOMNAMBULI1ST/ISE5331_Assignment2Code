@@ -29,7 +29,9 @@ Install dependencies:
 pip install numpy pandas statsmodels matplotlib
 
 ---
-## Run the script
+## 🧪 Methods Used
 
 ```bash
 python regression_code.py
+
+---
